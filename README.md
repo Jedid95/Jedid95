@@ -4,8 +4,8 @@
 
 
 
-![Jedid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jedid95&show_icons=true&theme=dark)
-[![Jedid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jedid95)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Jedid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jedid95&show_icons=true&theme=dark)-->
+<!--[![Jedid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jedid95)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jedid95&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
